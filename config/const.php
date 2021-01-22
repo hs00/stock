@@ -8,4 +8,4 @@
 const PRJ_NAME = 'stock';
 
 // site name
-const SITE_NAME = "FNJ 재고 관리";
+const SITE_NAME = "FNJ 교구재 재고 관리";
